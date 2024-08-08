@@ -1,0 +1,45 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container-navbar{
+    background-color: antiquewhite;
+    border: solid;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+h1 {
+    background-color: aquamarine;
+    margin: 0px;
+}
+
+nav {
+    padding: 0px;
+}
+
+ul {
+    background-color: blueviolet;
+    padding: 0px;
+    display: flex;
+
+}
+
+li {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Poppins' ,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#h1-nav {
+    font-family: 'Poppins' ,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
